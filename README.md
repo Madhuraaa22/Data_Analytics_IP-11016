@@ -59,7 +59,7 @@ NumPy – Numerical Operations
 
 Matplotlib & Seaborn – Data Visualization
 
-Jupyter Notebook / Google Colab
+Google Colab
 
 🔄 Project Workflow
 1. Initiation
